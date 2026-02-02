@@ -43,7 +43,12 @@
   <a href="https://www.linkedin.com/in/mustafa-a-turki-186909349" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1VE0VLhPzCkJp5YhPDs47a61njerYjVuz/view?usp=sharing" target="_blank">
+    <img alt="CV" src="https://img.shields.io/badge/Download%20CV-%23FF5722.svg?&style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
