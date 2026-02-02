@@ -21,6 +21,9 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+  <img alt="CodeBlocks" src="https://img.shields.io/badge/-CodeBlocks-0E7C7B?style=flat-square&logo=codeblocks&logoColor=white" />
 </p>
 
 ---
