@@ -30,8 +30,9 @@
 
 <h3>📌 Featured Project</h3>
 <ul>
-  <li><a href="https://your-prayer-times-site-link.com"><b>Prayer Times Website</b></a> – Responsive web app displaying prayer timings</li>
+  <li><a href="https://mustafa-a-turki.github.io/Prayer-Times/" target="_blank"><b>Prayer Times Website</b></a> – Responsive web app displaying prayer timings</li>
 </ul>
+
 
 ---
 <h3>📫 Where to find me</h3>
