@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  Welcome to my page! </br> I'm <b>Mostafa A. Turki</b>, Full Stack Developer from 
+  Welcome to my page! </br> I'm <b>Mostafa A. Turki</b>, Front End Developer from 
   <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> <b>Egypt</b>.
 </p>
 
