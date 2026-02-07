@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  Welcome to my page! </br> I'm <b>Mostafa A. Turki</b>, Front End Developer from 
+  Welcome to my page! <br> I'm <b>Mostafa A. Turki</b>, Front End Developer from 
   <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> <b>Egypt</b>.
 </p>
 
@@ -28,13 +28,15 @@
 
 ---
 
-<h3>📌 Featured Project</h3>
+<h3>📌 Featured Projects</h3>
 <ul>
+  <li><a href="https://mustafa-a-turki.github.io/Portfolio/" target="_blank"><b>Portfolio Website</b></a> – My personal portfolio showcasing my skills and projects</li>
+  <li><a href="https://mustafa-a-turki.github.io/E-Sebha/" target="_blank"><b>E-Sebha</b></a> – Digital tasbeeh app built with HTML, CSS, and JS</li>
   <li><a href="https://mustafa-a-turki.github.io/Prayer-Times/" target="_blank"><b>Prayer Times Website</b></a> – Responsive web app displaying prayer timings</li>
 </ul>
 
-
 ---
+
 <h3>📫 Where to find me</h3>
 <p>
   <a href="https://github.com/Mustafa-A-Turki" target="_blank">
@@ -43,16 +45,13 @@
   <a href="https://www.linkedin.com/in/mustafa-a-turki-186909349" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mmostafa1234.github.io/Portfolio-Website/" target="_blank">
+  <a href="https://mustafa-a-turki.github.io/Portfolio/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-%2300C853.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1VE0VLhPzCkJp5YhPDs47a61njerYjVuz" target="_blank">
     <img alt="Download CV" src="https://img.shields.io/badge/Download%20CV-%23FF5722.svg?&style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
-
-
-
 
 ---
 
